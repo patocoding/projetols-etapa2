@@ -4,7 +4,7 @@
 
 aside {
     width:320px;
-    background: rgb(255, 255, 255);
+    background: rgb(131, 201, 241);
     box-shadow: 0 0 14px 0 rgba(0 , 0, 0,  0.02);
     border-radius: 2px;
     padding: 30px 20px;
@@ -14,7 +14,7 @@ aside strong {
     font-size: 20px;
     text-align: center;
     display: block;
-    color: rgb(49, 49, 49);
+    color: rgb(0, 0, 0);
     text-transform: capitalize;
 }
 
@@ -38,7 +38,7 @@ aside form .input-group .input-block{
 }
 
 aside form .input-block label {
-    color: rgb(150, 150, 150);
+    color: rgb(0, 0, 0);
     font-size: 14px;
     font-weight: bold;
     display: block;

@@ -10,8 +10,14 @@ main ul{
 
 }
 
+@media (max-width: 650px) {
+    main ul {
+        grid-template-columns: 1fr;
+    }
+}
+
 li.dev-item{
-    background: white;
+    background: rgb(129, 149, 240);
     box-shadow: 0 0 14px 0 rgba(0,0,0,0.02);
     border-radius: 2px;
     padding: 20px;
@@ -42,19 +48,19 @@ li.dev-item header .user-info{
 
 .user-info span{
     font-size: 13px;
-    color: silver;
+    color: rgb(116, 235, 152);
     margin-top: 2px;
 }
 
 li.dev-item p{
-    color: rgb(160, 158, 158);
+    color: rgb(255, 255, 255);
     font-size: 14px;
     line-height: 20px;
     margin: 10px 0;
 }
 
 li.dev-item a{
-    color: #8e4dff;
+    color: #3b0019;
     font-size: 14px;
     text-decoration: none;
 }

@@ -13,6 +13,7 @@ import './main.css'
 function App() {
   return(
     <div id='app'>
+      
       <aside>
         <strong>cadastrar</strong>
         <form>
@@ -83,7 +84,7 @@ function App() {
               <div className="user-info">
 
               <strong>cayo bruno</strong>
-              <span>ReactJS, React Native, JavaScript</span>
+              <span>Zelda, Mario, Lua</span>
 
               </div>
 
@@ -99,7 +100,7 @@ function App() {
               <div className="user-info">
 
               <strong>cayo bruno</strong>
-              <span>ReactJS, React Native, JavaScript</span>
+              <span>Zelda, Mario, Lua</span>
 
               </div>
 
