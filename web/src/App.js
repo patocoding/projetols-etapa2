@@ -22,7 +22,7 @@ function App() {
           </div>
 
           <div className="input-block">
-            <label htmlFor="games">Games</label>
+            <label htmlFor="games">Games e techs</label>
             <input name='games' id='games' required />
           </div>
           
